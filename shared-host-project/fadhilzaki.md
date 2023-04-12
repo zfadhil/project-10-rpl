@@ -1,6 +1,6 @@
 **Nama project : Perpustakaan national**
 
-perpus.zfadhil.my.id
+[Perpustakaan Nasional](https://perpus.zfadhil.my.id "cek list buku dari sini")
 
 Deskripsi  
 projek ini bertujuan untuk mempermudah admin perpustakaan national dalam mengelelola data semua buku yang ada. dengan begitu, pengerjaannya akan lebih terorganisir.
